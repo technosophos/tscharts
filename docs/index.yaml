@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   alpine:
-  - created: 2016-11-18T13:31:42.125686202-07:00
+  - created: 2016-11-18T13:59:15.797220947-07:00
     description: Deploy a basic Alpine Linux pod
     digest: f44f733d69008e86c3989d3b094a5e6151d168921a09eda61c0897472e2f0399
     home: https://k8s.io/helm
@@ -11,7 +11,7 @@ entries:
     urls:
     - alpine-0.3.0.tgz
     version: 0.3.0
-  - created: 2016-11-18T13:31:42.124128088-07:00
+  - created: 2016-11-18T13:59:15.784361235-07:00
     description: Deploy a basic Alpine Linux pod
     digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b921f422b9dcb8a7c8b559cd
     home: https://k8s.io/helm
@@ -21,7 +21,7 @@ entries:
     urls:
     - alpine-0.2.0.tgz
     version: 0.2.0
-  - created: 2016-11-18T13:31:42.123874778-07:00
+  - created: 2016-11-18T13:59:15.784096935-07:00
     description: Deploy a basic Alpine Linux pod
     digest: 515c58e5f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cd78727
     home: https://k8s.io/helm
@@ -31,4 +31,4 @@ entries:
     urls:
     - alpine-0.1.0.tgz
     version: 0.1.0
-generated: 2016-11-18T13:31:42.123519559-07:00
+generated: 2016-11-18T13:59:15.783432778-07:00
